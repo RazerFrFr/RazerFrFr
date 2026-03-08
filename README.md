@@ -4,7 +4,17 @@
 ![Stats](https://github-stats-alpha.vercel.app/api?username=RazerFrFr&cc=000&tc=fff&ic=fff&bc=000)
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1479999809267175516)](https://discord.com/users/1479999809267175516)
+![Discord](https://lanyard.cnrad.dev/api/1250853681935421461)
 
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazerFrFr&layout=compact&theme=dark)
+## Main Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+</p>
