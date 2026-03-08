@@ -2,7 +2,7 @@
 **I'm Razer, i'm a Backend/Mobile developer**
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1250853681935421461)](https://discord.com/users/1250853681935421461)
 
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazerFrFr&layout=compact&theme=dark)
